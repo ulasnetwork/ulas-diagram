@@ -1,1 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T05:57:29.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.1.4" etag="CtufYybQ3LcFu_oC-yOn" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-12T06:39:08.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ziv1qxPLInMiiXL7cX2I" version="20.1.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2713" dy="2179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="aQGT_Jq6ghk0JRcF2REv-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="mint ULAS DID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-0" value="did: ulas生态的入场券，统一身份" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="40" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-1" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="aQGT_Jq6ghk0JRcF2REv-0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-3" value="支付 10 USDT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aQGT_Jq6ghk0JRcF2REv-2" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-2" value="&lt;br&gt;user" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="-80" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aQGT_Jq6ghk0JRcF2REv-4" target="aQGT_Jq6ghk0JRcF2REv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aQGT_Jq6ghk0JRcF2REv-4" target="aQGT_Jq6ghk0JRcF2REv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aQGT_Jq6ghk0JRcF2REv-4" target="aQGT_Jq6ghk0JRcF2REv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-4" value="增发 100 ulas token" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-5" value="10 ulas 分配给用户" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-7" value="50 ulas 分配给全网用户" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="290" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-10" value="40 ulas 分配给投资者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="85" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="190" width="60" height="360" as="geometry" />
+        </mxCell>
+        <UserObject label="- 采用claim方式，用户需自行在客户端进行提币操作&lt;br&gt;&lt;br&gt;- 每周可提余额设为5 ulas（以此控制流通量&amp;amp;抛盘）&lt;br&gt;&lt;br&gt;- 投资者可采用定期空投方式发放代币" placeholders="1" name="Variable" id="aQGT_Jq6ghk0JRcF2REv-15">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="65" y="400" width="290" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-18" value="填入有效邀请码，可享8折注册优惠，邀请人可享10%注册费（合约执行立即到账）" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="-30" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" target="aQGT_Jq6ghk0JRcF2REv-18" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="20" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-22" value="可选其他币种支付，价格会随着注册量增加不断上涨" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-136" y="-34" width="296" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-23" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="aQGT_Jq6ghk0JRcF2REv-22" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="23" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-29" value="持续2年，2年后停止增发" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="142" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="aQGT_Jq6ghk0JRcF2REv-29" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="182" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="40" width="30" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="- 成为PostFi VIP用户，可享社交网络的更多推荐、更多曝光等福利&lt;br&gt;&lt;br&gt;- 获得 ULAS生态 独特身份勋章（NFT Pass卡）&lt;br&gt;&lt;br&gt;- 抢先体验 ULAS生态未来推出的各项服务，以及获得&amp;nbsp; &amp;nbsp; 空投机会&lt;br&gt;&lt;br&gt;- 赋予更多特权..." placeholders="1" name="Variable" id="aQGT_Jq6ghk0JRcF2REv-33">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="640" y="30" width="290" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-34" value="ulas token是ULAS生态的价值代币，将绑定ULAS未来的生态价值" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-269" y="78" width="359" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-35" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" target="aQGT_Jq6ghk0JRcF2REv-34" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aQGT_Jq6ghk0JRcF2REv-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-36" value="短名称(length&amp;lt;=3)的DID将收取更高费用，短名称更易记" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="-80" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-37" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aQGT_Jq6ghk0JRcF2REv-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="20" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-38" value="ulas token消耗场景" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1241" y="-180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-39" value="PostFi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1240" y="-65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-40" value="Post" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1170" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-42" value="Comment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1240" y="39" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-43" value="Like" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1320" y="39" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-44" value="Follow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1390" y="39" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6.4;endSize=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1299.6" y="-29" as="sourcePoint" />
+            <mxPoint x="1299.6" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aQGT_Jq6ghk0JRcF2REv-46" value="ulas token增发场景" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="-180" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
